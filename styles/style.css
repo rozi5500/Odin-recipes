@@ -1,0 +1,32 @@
+body {
+  background-color: #fce5c9;
+}
+
+.main-header, .recipe-header {
+  background-color: cadetblue;
+  text-align: center;
+  font-family: "DejaVu Sans", serif;
+  font-size: 35px;
+  font-weight: normal;
+}
+
+.recipe-header {
+  color: darkgreen;
+  background-color: coral;
+}
+
+p, ol, ul {
+  background-color: rgba(184, 134, 11, 0.38);
+  color: darkslateblue;
+}
+
+.button {
+  background-color: cornflowerblue;
+  color: black;
+  font-size: 25px;
+  text-align: center;
+}
+
+.header {
+  color: darkslateblue;
+}
